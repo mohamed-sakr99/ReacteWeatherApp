@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReacteWeatherApp/static/css/main.fc006d4c.css",
+    "main.js": "/ReacteWeatherApp/static/js/main.fe55b3de.js",
+    "static/js/787.aafc6230.chunk.js": "/ReacteWeatherApp/static/js/787.aafc6230.chunk.js",
+    "index.html": "/ReacteWeatherApp/index.html",
+    "main.fc006d4c.css.map": "/ReacteWeatherApp/static/css/main.fc006d4c.css.map",
+    "main.fe55b3de.js.map": "/ReacteWeatherApp/static/js/main.fe55b3de.js.map",
+    "787.aafc6230.chunk.js.map": "/ReacteWeatherApp/static/js/787.aafc6230.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc006d4c.css",
+    "static/js/main.fe55b3de.js"
+  ]
+}
